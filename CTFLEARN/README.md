@@ -14,5 +14,6 @@
         ```
         test' or '1' = '1 
         ```
+* Flag: ```CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs}```
     
 
