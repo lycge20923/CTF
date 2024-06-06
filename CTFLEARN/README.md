@@ -4,9 +4,9 @@
 
 * Website: https://ctflearn.com/challenge/88
 
-* Solution: It is about **SQL Injection**
+* Solution: **SQL Injection**
 
-    * The *Input* will turn to be 
+    * The *Input* in website https://web.ctflearn.com/web4/ will turn to be 
         ```
         SELECT * FROM webfour.webfour where name = '$input'
         ```
