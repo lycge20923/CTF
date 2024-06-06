@@ -16,16 +16,28 @@
         ```
 * Flag: ```CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs}```
 
-## Forensics 101 
+## Forensics_101 
 
 * Website: https://ctflearn.com/challenge/96
 
-* Solution: **strings instruction**
+* Solution: **```strings``` Instruction**
 
-    * ```strings``` instruction: Would print **printable strings**
+    * ```strings <File_name>``` instruction: Would print **printable strings**
 
-    * After conduct ```bash Forensics_101.sh```, it would show the printable strings, and the flag is contained!
+* Code: Conduct ```bash Forensics_101/Forensics_101.sh```
 
 * Flag: ```flag{wow!_data_is_cool}```
     
+## Character_Encoding
 
+* Website: https://ctflearn.com/challenge/115
+
+* Solution: **Heximal Encoding**
+
+    * Convert the heximal number to the string!
+
+* Code: ```python Character_Encoding/Character_Encoding.py```
+
+    * ```bytearray.fromhex(<hex string>)``` could turn hex number to string. e.g. ```bytearray.fromhex('41') = b'A'```
+
+* Flag: ```ABCTF{45C11_15_U53FUL}```
