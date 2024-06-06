@@ -1,6 +1,6 @@
 # CTFLEARN
 
-# Basic Injection
+## Basic Injection
 
 * Website: https://ctflearn.com/challenge/88
 
