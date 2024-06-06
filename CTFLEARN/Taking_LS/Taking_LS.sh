@@ -1,0 +1,1 @@
+cat Taking_LS/The\ Flag/.ThePassword/ThePassword.txt

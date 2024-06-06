@@ -24,7 +24,7 @@
 
     * ```strings <File_name>``` instruction: Would print **printable strings**
 
-* Code: Conduct ```bash Forensics_101/Forensics_101.sh```
+* Code: ```bash Forensics_101/Forensics_101.sh```
 
 * Flag: ```flag{wow!_data_is_cool}```
     
@@ -41,3 +41,17 @@
     * ```bytearray.fromhex(<hex string>)``` could turn hex number to string. e.g. ```bytearray.fromhex('41') = b'A'```
 
 * Flag: ```ABCTF{45C11_15_U53FUL}```
+
+## Taking_LS
+
+* Website: https://ctflearn.com/challenge/103
+
+* Solution: **Check ```.<file_name>``` File**
+
+    * Use ```ls -a``` to check whether there are some ```.<file_name>``` in it!
+
+* Code: ```bash Taking_LS/Taking_LS.sh```
+
+    * ```cat```: print the text in the file
+
+* Flag: ```ABCTF{T3Rm1n4l_is_C00l}```
