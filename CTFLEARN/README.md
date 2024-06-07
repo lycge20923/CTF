@@ -62,7 +62,7 @@
 
 * Solution: **Base64 Encoder/Decoder**
 
-    * Base64: Turn 8-bit|8-bit|8-bit to 6-bit|6-bit|6-bit|6-bit, and each 6-bit has a character
+    * Base64: Turn ```8-bit```|```8-bit```|```8-bit``` to ```6-bit```|```6-bit```|```6-bit```|```6-bit```, and each 6-bit has a character
 
 * Code: ```python Base_2_2_the6/Base_2_2_the6.py```
 
