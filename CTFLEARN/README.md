@@ -67,3 +67,15 @@
 * Code: ```python Base_2_2_the6/Base_2_2_the6.py```
 
 * Flag: ```CTF{FlaggyWaggyRaggy}```
+
+## Morse_Code
+
+* Website: https://ctflearn.com/challenge/309
+
+* Solution **Morse Code**
+
+    * Use Morse Code to get the flag information 
+
+* Code: ```python Morse_Code/Morse_Code.py```
+
+* Flag: ```FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES```
