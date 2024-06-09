@@ -79,3 +79,34 @@
 * Code: ```python Morse_Code/Morse_Code.py```
 
 * Flag: ```FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES```
+
+## Where_Can_My_Robot_Go
+
+* Solution: ```robots.txt```
+
+    * One text file placing under ```root```
+
+    * Purpose: Tell the **Web Crawlers/Web Browser** which page could be crawled or not
+
+    * Structure:
+        
+        * ```User-agent```: The rule would be applied to which web crawlers, often is ```*```
+        
+        * ```Disallow```: Disallow the path that web crawlers crawl
+
+        * Example1: When we don't want ```/private``` to be accessed
+            ```
+            User-agent: *
+            Disallow: /private/
+            ```
+        * Example2: When we allow all pages to be accessed
+            ```
+            User-agent: *
+            Disallow: 
+            ```
+    
+    * ```curl <website>```: Visit the content in ```<website>``` 
+
+* Code: ```bash Where_Can_My_Robot_Go/Where_Can_My_Robot_Go.sh```
+
+* Flag: ```CTFlearn{r0b0ts_4r3_th3_futur3}```
