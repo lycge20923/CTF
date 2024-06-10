@@ -115,6 +115,8 @@
 
 ## Reverse_Polarity
 
+* Website: https://ctflearn.com/challenge/230
+
 * Solution: **Binary to ASCII**
 
     * Get the **Hexadecimal** of the number
@@ -124,3 +126,13 @@
 * Code: ```python Reverse_Polarity/Reverse_Polarity.py```
 
 * Flag: ```CTF{Bit_Flippin}```
+
+## Wikipedia
+
+* Website: https://ctflearn.com/challenge/168
+
+* Solution: **Edit History(Diff)**
+
+    * Search for ```128.125.52.138``` in English Wikipedia => Check ```Diff``` => See the flag
+
+* Flag: ```cNi76bV2IVERlh97hP```
