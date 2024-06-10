@@ -112,3 +112,15 @@
 * Code: ```bash Where_Can_My_Robot_Go/Where_Can_My_Robot_Go.sh```
 
 * Flag: ```CTFlearn{r0b0ts_4r3_th3_futur3}```
+
+## Reverse_Polarity
+
+* Solution: **Binary to ASCII**
+
+    * Get the **Hexadecimal** of the number
+
+    * Convert the hexadecimal number to the **byte expression**, using ```bytearray.fromhex(<hex>)```
+
+* Code: ```python Reverse_Polarity/Reverse_Polarity.py```
+
+* Flag: ```CTF{Bit_Flippin}```
