@@ -1,0 +1,1 @@
+strings WOW_So_Meta/3UWLBAUCb9Z2.jpg | grep flag

@@ -136,3 +136,31 @@
     * Search for ```128.125.52.138``` in English Wikipedia => Check ```Diff``` => See the flag
 
 * Flag: ```cNi76bV2IVERlh97hP```
+
+## WOW_So_Meta
+
+* Website: https://ctflearn.com/challenge/348
+
+* Solution: **```strings``` Instruction**
+
+    * ```strings <file>```: To check information of the file
+
+    * ```grep <strings>```: Grep something in the output text of the terminal
+
+* Code: ```bash WOW_So_Meta/WOW_So_Meta.sh```
+
+* Flag: ```flag{EEe_x_I_FFf}```
+
+## POST_Practice
+
+* Website: https://ctflearn.com/challenge/114
+
+* Solution: **Find Username, Password in ```curl```**
+
+    * See the username, password in the output of ```curl <website>```
+
+    * Use ```requests.post(<website>, <data>)``` to get the response, where ```<data>``` equals to ```{username:..., password:...}```
+
+* Code: ```python POST_Practice/POST_Practice.py```
+
+* Flag: ```flag{p0st_d4t4_4ll_d4y}```
