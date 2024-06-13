@@ -1,0 +1,1 @@
+binwalk -D 'image:png' Binwalk/PurpleThing.jpeg # -D: 分解

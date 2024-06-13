@@ -164,3 +164,17 @@
 * Code: ```python POST_Practice/POST_Practice.py```
 
 * Flag: ```flag{p0st_d4t4_4ll_d4y}```
+
+## Binwalk
+
+* Website: https://ctflearn.com/challenge/108
+
+* Solution: **Binwalk**
+
+    * A tool for analyzing **binary files**
+    
+    * Commonly used: Penetration testing, analyze the contents within binary files, including data embedded in firmware, image files, compressed files, and more.
+
+* Code: ```CTFLEARN/Binwalk/Binwalk.sh```
+
+* Flag: ```ABCTF{b1nw4lk_is_us3ful}```
