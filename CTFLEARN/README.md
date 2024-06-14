@@ -178,3 +178,23 @@
 * Code: ```CTFLEARN/Binwalk/Binwalk.sh```
 
 * Flag: ```ABCTF{b1nw4lk_is_us3ful}```
+
+## Hextroadinary
+
+* Website: https://ctflearn.com/challenge/158
+
+* Solution: **xor**
+
+    * Xor the two numbers
+
+* Code: ```python Hextroadinary/Hextroadinary.py```
+
+* Flag: ```0xc0ded```
+
+## Vigenere_Cipher
+
+* Website: https://ctflearn.com/challenge/305
+
+* Solution: **Vigenere Cipher**
+
+    * Use the key(in this case, *blorpy*) to decode the ciphertext($H_1$)
