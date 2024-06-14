@@ -197,4 +197,4 @@
 
 * Solution: **Vigenere Cipher**
 
-    * Use the key(in this case, *blorpy*) to decode the ciphertext($H_1$)
+    * Use the key(in this case, *blorpy*) to decode the ciphertext($C_i - K_i = P_i \mod 26$)
