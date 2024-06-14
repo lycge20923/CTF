@@ -198,3 +198,13 @@
 * Solution: **Vigenere Cipher**
 
     * Use the key(in this case, *blorpy*) to decode the ciphertext($C_i - K_i = P_i \mod 26$)
+
+        * $C_i$: Alphabet of ciphertext in position $i$
+
+        * $K_i$: Alphabet of Key in position $i$
+
+        * $P_i$: Alphabet of plantext in position $i$
+
+* Code: ```python Vigenere_Cipher/Vigenere_Cipher.py```
+
+* Flag: ```flag{CiphersAreAwesome}```
