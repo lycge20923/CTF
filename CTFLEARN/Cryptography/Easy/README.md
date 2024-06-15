@@ -81,3 +81,17 @@
 * Code: ```python Vigenere_Cipher/Vigenere_Cipher.py```
 
 * Flag: ```flag{CiphersAreAwesome}```
+
+## BruXOR
+
+* Website: https://ctflearn.com/challenge/227
+
+* Solution: **Brute Force** & **XOR**
+
+    * Solution 1: Use the website(https://www.dcode.fr/xor-cipher) to brute force search
+
+    * Solution 2: Write the code by ourselves, begin with key = 0 
+
+* Code: ```python BruXOR/BruXOR.py```
+
+* Flag: ```flag{y0u_Have_bruteforce_XOR}```
