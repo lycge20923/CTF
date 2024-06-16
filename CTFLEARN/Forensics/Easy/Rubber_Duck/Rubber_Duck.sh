@@ -1,0 +1,1 @@
+strings Rubber_Duck/RubberDuck.jpg | grep { | grep CTF

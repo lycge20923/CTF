@@ -65,3 +65,15 @@
 * Code: ```bash Exif/Exif.sh```
 
 * Flag: ```flag{3l1t3_3x1f_4uth0r1ty_dud3br0}```
+
+## Rubber_Duck
+
+* Website: https://ctflearn.com/challenge/933
+
+* Solution: **```strings``` Instruction**
+
+    * Use ```strings <file>``` and add ```grep {``` to catch the text about flag
+
+* Code: ```bash Rubber_Duck/Rubber_Duck.sh```
+
+* Flag: ```CTFlearn{ILoveJakarta}```
