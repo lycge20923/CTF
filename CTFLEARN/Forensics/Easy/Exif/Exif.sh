@@ -1,0 +1,1 @@
+strings Exif/Computer-Password-Security-Hacker\ -\ Copy.jpg | grep flag

@@ -50,6 +50,18 @@
     
     * Commonly used: Penetration testing, analyze the contents within binary files, including data embedded in firmware, image files, compressed files, and more.
 
-* Code: ```CTFLEARN/Binwalk/Binwalk.sh```
+* Code: ```bash CTFLEARN/Binwalk/Binwalk.sh```
 
 * Flag: ```ABCTF{b1nw4lk_is_us3ful}```
+
+## Exif
+
+* Website: https://ctflearn.com/challenge/303
+
+* Solution: **```strings``` Instruction**
+
+    * Use ```strings <file>``` and add ```grep flag``` to catch the text about flag
+
+* Code: ```bash Exif/Exif.sh```
+
+* Flag: ```flag{3l1t3_3x1f_4uth0r1ty_dud3br0}```
