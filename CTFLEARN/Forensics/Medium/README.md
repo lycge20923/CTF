@@ -8,6 +8,8 @@
 
     * Use ```binwalk -e <file>``` to anlyze the file. It would thoroughly extract the files hidden in the ```<file>```
 
+    * Then, use ```strings``` to extract information in it 
+
 * Code: ```bash 07601/07601.sh```
 
 * Flag: ```ABCTF{Du$t1nS_D0jo}```
