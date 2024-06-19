@@ -95,3 +95,15 @@
 * Code: ```python BruXOR/BruXOR.py```
 
 * Flag: ```flag{y0u_Have_bruteforce_XOR}```
+
+## HyperStream_Test_2
+
+* Website: https://ctflearn.com/challenge/443
+
+* Solution: **Bacon Cipher**
+
+    * Use the cipher system where letters (I, J) & (U, V) have same ciphertexts
+
+* Code: ```HyperStream_Test_2/HyperStream_Test_2.py```
+
+* Flag: ```ILOUEBACONDONTYOU```
