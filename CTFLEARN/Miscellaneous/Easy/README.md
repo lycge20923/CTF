@@ -42,3 +42,15 @@
     * Search for ```128.125.52.138``` in English Wikipedia => Check ```Diff``` => See the flag
 
 * Flag: ```cNi76bV2IVERlh97hP```
+
+## QRCode
+
+* Website: https://ctflearn.com/challenge/228
+
+* Solution: **Base 64 decod** & **ROT 13**
+
+    * Just decode by base-64 decoding and ROT 13
+
+* Code: ```python QRCode/QRCode.py```
+
+Flag: ```n0_body_f0rget_qr_code```

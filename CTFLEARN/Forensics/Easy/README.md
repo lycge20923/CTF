@@ -77,3 +77,20 @@
 * Code: ```bash Rubber_Duck/Rubber_Duck.sh```
 
 * Flag: ```CTFlearn{ILoveJakarta}```
+
+## Git_Is_Good
+
+* Website: https://ctflearn.com/challenge/104
+
+* Solution: ```git show```
+
+    * ```git show ___```: 用來查看某次的提交細節。若為```git show head```，則為秀最後一次的提交
+
+* Code
+
+    ```
+    cd Git_Is_Good/gitIsGood
+    git show HEAD
+    ```
+
+* Flag: ```flag{protect_your_git}```
