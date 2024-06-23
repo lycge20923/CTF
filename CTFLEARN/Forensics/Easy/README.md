@@ -106,3 +106,15 @@
 * Code: ```bash Im_a_dump/Im_a_dump.sh```
 
 * Flag: ```CTFlearn{fl4ggyfl4g}```
+
+## Snowboard 
+
+* Website: https://ctflearn.com/challenge/934
+
+* Solution: ```strings``` & ```base64```
+
+    * There would be base64-encoded flag in the first lines of ```strings <file>```
+
+* Code: ```python Snowboard/Snowboard.py```
+
+* Flag: ```CTFlearn{SkiBanff}```
