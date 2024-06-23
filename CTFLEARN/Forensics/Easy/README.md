@@ -94,3 +94,15 @@
     ```
 
 * Flag: ```flag{protect_your_git}```
+
+## Im_a_dump
+
+* Website: https://ctflearn.com/challenge/883
+
+* Solution: ```strings```
+
+    * After conducting ```strings <file>```, there would be the  information similar to flag, we could then delete ```H, E, U```
+
+* Code: ```bash Im_a_dump/Im_a_dump.sh```
+
+* Flag: ```CTFlearn{fl4ggyfl4g}```
