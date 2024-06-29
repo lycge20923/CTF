@@ -16,6 +16,24 @@
 
 
 
+## Milk_Best_Friend
+
+* Website: https://ctflearn.com/challenge/195
+
+* Solution: **binwalk**, **unrar** and **strings**
+
+    * steps
+
+        1. ```binwalk <A.img>``` 
+
+        3. ```strings <B.img>```
+
+* Code: ```bash Milk_Best_Friend/Milk_Best_Friend.sh```
+
+* Flag: ```flag{eat_more_oreos}```
+
+
+
 ## 
 
 * Website: 
