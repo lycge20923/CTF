@@ -32,7 +32,19 @@
 
 * Flag: ```flag{eat_more_oreos}```
 
+## A_CAPture_of_Flag
 
+* Website: https://ctflearn.com/challenge/356
+
+* Solution: **Wireshark** and message
+
+    * Use **Wireshark** to open the file 
+
+    * We could then find the message is encoded: 
+
+        ![image.png](A_CAPture_of_Flag/image.png)
+
+* Flag: ```flag{AFlagInPCAP}```
 
 ## 
 
