@@ -58,7 +58,7 @@
 
 * Code: ```python Up_for_a_little_challenge/Up For A Little Challenge.zip```
 
-* Flag: 
+* Flag: ```flag{hack_complete}```
 
 ## 
 
