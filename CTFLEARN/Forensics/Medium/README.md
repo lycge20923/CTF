@@ -40,11 +40,25 @@
 
     * Use **Wireshark** to open the file 
 
-    * We could then find the message is encoded: 
+    * We could then find the message is encoded, it is obviously **b64-encoded**: 
 
         ![image.png](A_CAPture_of_Flag/image.png)
 
 * Flag: ```flag{AFlagInPCAP}```
+
+## Up_For_A_Little_Challenge
+
+* Website: https://ctflearn.com/challenge/142
+
+* Solution: **Observation** & ```.perb```
+
+    * 從```strings <File>```中搜尋自己要的資料，包含另一個檔案網址和密碼
+
+    * 然後透過適當解壓縮（當中包含```.perb```也要）來完成
+
+* Code: ```python Up_for_a_little_challenge/Up For A Little Challenge.zip```
+
+* Flag: 
 
 ## 
 
