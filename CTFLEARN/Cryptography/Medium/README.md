@@ -11,6 +11,20 @@
 
 * Flag: ```IFONLYMODERNCRYPTOWASLIKETHIS```
 
+## RSA_Noob
+
+* Website: https://ctflearn.com/challenge/120
+
+* Solution: **RSA**
+
+    * It is a simple **RSA**, since its e is 1, which means d is also 1
+
+    * We use to the function ```long_to_bytes``` from ```Cryptodome.Util.number``` to convert a big integer to bytes
+
+* Code: ```python RSA_Noob/RSA_Noob.py```
+
+* Flag: ```abctf{b3tter_up_y0ur_e}```
+
 ## 
 
 * Website:
