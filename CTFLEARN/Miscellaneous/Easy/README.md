@@ -54,3 +54,33 @@
 * Code: ```python QRCode/QRCode.py```
 
 Flag: ```n0_body_f0rget_qr_code```
+
+## Time_Traveller
+
+* Website: https://ctflearn.com/challenge/1072
+
+* Solution: ```Web Archive```
+
+    * The website **WayBack Machine**(https://wayback-api.archive.org/) helps us to extract the web archive at the specific time 
+
+    * We could first go the website, and type the website we want to check:
+
+        ![Time_Traveller_1](Time_Traveller/1.png)
+
+    * Then, we could switch to examine the web content at the specific time  
+
+        ![Time_Traveller_2](Time_Traveller/2.png)
+
+Flag: ```CTFlearn{today@nasa.gov}```
+
+## 
+
+* Website: 
+
+* Solution: 
+
+    * 
+
+* Code: ``````
+
+Flag: ``````
