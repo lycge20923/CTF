@@ -51,3 +51,45 @@
         ![Inj3ction_Time/Image/7.png](Inj3ction_Time/Image/7.png)
 
 * Flag: ```abctf{uni0n_1s_4_gr34t_c0mm4nd}```
+
+## Calculat3_M3
+
+* Website: https://ctflearn.com/challenge/150
+
+* Solution: **OS command injection**, ```curl``` & Observation
+
+    * **OS command injection**: One could execute operating system (OS) commands on the server that is running an application, and typically fully compromise the application and its data
+
+    * Parameters of ```curl```
+
+        * ```-L <url>```: Resend the request for the url.
+
+        * ```-d <parameter:content>```: The accompanied json for the request
+
+    * Observation
+
+        1. We could first input the command ```curl -L "https://web.ctflearn.com/web7/"```, and find that the input is ```expression```
+
+            ![Calculat3_M3](Calculat3_M3/1.png)
+
+        2. We then get the response by providing the formal text
+
+            ![Calculat3_M3](Calculat3_M3/2.png)
+
+        3. We could then inject by giving **```;ls```**
+
+            ![Calculat3_M3](Calculat3_M3/3.png)
+
+* Code:
+
+* Flag: 
+
+## 
+
+* Website:
+
+* Solution:
+
+* Code:
+
+* Flag: 

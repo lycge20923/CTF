@@ -25,6 +25,16 @@
 
 * Flag: ```abctf{b3tter_up_y0ur_e}```
 
+## 5x5 Crypto
+
+* Website: https://ctflearn.com/challenge/263
+
+* Solution: **grid encryption/decryption**
+
+    * Use ```ABCDE FGHIJ ...``` to get the correspondence
+
+* Flag: ```ctf{thumbs_up}```
+
 ## 
 
 * Website:
