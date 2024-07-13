@@ -130,3 +130,25 @@
 * Code: ```python Pho_Is_Tasty/Pho_Is_Tasty.py```
 
 * Flag: ```CTFlearn{I_Love_Pho!!!}```
+
+## PDF_by_fdpumyp
+
+* Website: https://ctflearn.com/challenge/957
+
+* Solution: ```binwalks```, ```strings```
+
+    * ```binwalks``` the file and extract the files, and ```strings``` the extracted files to find the specific text
+
+* Code: ```python PDF_by_fdpumyp/PDF_by_fdpumyp.py```
+
+* Flag: ```CTFlearn{)_1l0w3y0Um00my123}```
+
+## PDF_by_fdpumyp
+
+* Website: https://ctflearn.com/challenge/957
+
+* Solution: ```binwalks```, ```strings```
+
+* Code:
+
+* Flag: 
