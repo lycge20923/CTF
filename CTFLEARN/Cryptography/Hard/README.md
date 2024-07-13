@@ -12,7 +12,6 @@
 
 * Flag: ```ABCTF{pr3tty_b4s1c_r1ght?}```
 
-
 ## 
 
 * Website:

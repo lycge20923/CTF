@@ -60,15 +60,29 @@
 
 * Flag: ```flag{hack_complete}```
 
-## 
+## Digital_Camouflage
 
-* Website: 
+* Website: https://ctflearn.com/challenge/237
 
-* Solution: 
+* Solution: **Wireshark Analyze**
 
-    * 
+    * First, we open the file by using **Wireshark**, and we filter by word ```tcp```
 
-* Code: 
+        ![DC_1](Digital_Camouflage/1.png)
 
-* Flag: 
+    * We could then analyze the **tcp stream**
+
+        ![DC_2](Digital_Camouflage/2.png)
+
+    * We could then turn **stream sequence number** to 3, then the password would be shown off. 
+
+        * **stream sequence number**: The sequential number assigned to each byte in the data stream. The sequence number ensures that data can be reassembled in the correct order at the receiving end.
+
+        ![DC_3](Digital_Camouflage/3.png)
+
+    * Finally, we decode the password
+
+* Code: ```python Digital_Camouflage/Digital_Camouflage.py```
+
+* Flag: ```PApdsjRTae```
 
