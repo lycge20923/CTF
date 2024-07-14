@@ -143,11 +143,11 @@
 
 * Flag: ```CTFlearn{)_1l0w3y0Um00my123}```
 
-## PDF_by_fdpumyp
+## 
 
-* Website: https://ctflearn.com/challenge/957
+* Website:
 
-* Solution: ```binwalks```, ```strings```
+* Solution: 
 
 * Code:
 

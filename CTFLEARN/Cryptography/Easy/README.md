@@ -107,3 +107,23 @@
 * Code: ```HyperStream_Test_2/HyperStream_Test_2.py```
 
 * Flag: ```ILOUEBACONDONTYOU```
+
+## Suspecious_message
+
+* Website: https://ctflearn.com/challenge/887
+
+* Solution: **Playfair Cipher**
+
+    * Two words as a pair, we could get the two words of the plaintext by matching the corner/end of the box/row/column.
+
+* Flag: ```CTFLEARN{PL4YF41R_1S_C00L_C1PHERRRR}```
+
+## 
+
+* Website: https://
+
+* Solution: 
+
+* Code: ```
+
+* Flag: 
