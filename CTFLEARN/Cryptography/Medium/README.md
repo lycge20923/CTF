@@ -35,6 +35,20 @@
 
 * Flag: ```ctf{thumbs_up}```
 
+## RSA_Beginner
+
+* Website: https://ctflearn.com/challenge/119
+
+* Solution: **RSA**
+
+    * Since the ```e``` is small, we could just use the simple way to decrypt
+
+    * The function ```long_to_bytes(<big integer>)``` from ```Crypto.Util.number``` could convert a big integer to a string
+
+* Code: ```python RSA_Beginner/RSA_Beginner.py```
+
+* Flag: ```abctf{rs4_is_aw3s0m3}```
+
 ## 
 
 * Website:
