@@ -143,6 +143,18 @@
 
 * Flag: ```CTFlearn{)_1l0w3y0Um00my123}```
 
+## Minions
+
+* Website: https://ctflearn.com/challenge/955
+
+* Solution: ```Binwalk``` & ```strings``` & ```b64decode```
+
+    * Keep try ```Binwalk``` and ```strings```, and decode the text after seeing ```CTF{``` 
+
+* Code: ```python Minions/Minions.py```
+
+* Flag: ```CTF{M1NI0NS_ARE_C00L```
+
 ## 
 
 * Website:
