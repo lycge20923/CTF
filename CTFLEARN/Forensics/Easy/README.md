@@ -155,6 +155,20 @@
 
 * Flag: ```CTF{M1NI0NS_ARE_C00L```
 
+## GandalfTheWise
+
+* Website: https://ctflearn.com/challenge/936
+
+* Solution: ```b64decode(<b64 encrypted text>)``` & ```long_to_bytes(<integer>)``` from ```Crypto.Util.number```
+
+    * If we need to convert a string, which is likely a b64-represent text, into a integer(10-base/16-base) => ```int(b64decode(<b64 encrypted text>).hex(), 16)``` to turn it to be hex.
+
+    * Instead, if we need to convert a hex number to a string => ```long_to_byes(<heximal text>)```
+
+* Code: ```python GandalfTheWise/GandalfTheWise.py```
+
+* Flag: ```CTFlearn{Gandalf.BilboBaggins}```
+
 ## 
 
 * Website:
