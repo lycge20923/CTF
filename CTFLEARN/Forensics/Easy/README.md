@@ -169,6 +169,18 @@
 
 * Flag: ```CTFlearn{Gandalf.BilboBaggins}```
 
+## Blank_Page
+
+* Website: https://ctflearn.com/challenge/959
+
+* Solution: **Observation**
+
+    * We could use ```repr()``` to find the content even if there seen to be empty in the file
+
+* Code: ```python Blank_Page/Blank_Page.py```
+
+* Flag: ```CTFlearn{If_y0u_r3/\d_thi5_you_pa553d}```
+
 ## 
 
 * Website:
