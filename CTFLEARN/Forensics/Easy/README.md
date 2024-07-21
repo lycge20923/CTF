@@ -181,6 +181,24 @@
 
 * Flag: ```CTFlearn{If_y0u_r3/\d_thi5_you_pa553d}```
 
+## Abandoned_place
+
+* Website: https://ctflearn.com/challenge/1000
+
+* Solution: **Edit ```jpg``` file**
+
+    * There are some pixels hidden, thus we need to **edit the hex** of the image to uncover the image
+
+    * By referencing the website(https://www.quora.com/How-do-I-extract-width-and-height-data-from-an-Exif-JPG-hex-format-in-C++), we could edit the hex file 
+
+        ![abandon](Abandoned_place/1.png)
+
+    * After that, we could see the flag
+
+        ![abandon](Abandoned_place/abondoned_street_challenge-fix.jpg)
+
+* Flag: ```CTFlearn{urban_exploration}```
+
 ## 
 
 * Website:
