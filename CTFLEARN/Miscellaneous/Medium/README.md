@@ -14,6 +14,22 @@
 
 * Flag: ```flag{5uch_j4v4_5crip7_much_w0w}```
 
+## Ambush_Mission
+
+* Website: https://ctflearn.com/challenge/274
+
+* Solution:  ```stegsolve```
+
+    * We could use ```stegsolve``` to analyze the image 
+
+        ![Ambush_Mission](Ambush_Mission/1.png)
+
+    * Then, we could decode it!
+
+* Code: ```python Ambush_Mission/Ambush_Mission.py```
+
+* Flag: ```m3Et_me_4t_12_aM```
+
 ## 
 
 * Website: 
