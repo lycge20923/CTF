@@ -24,6 +24,20 @@
 
 * Flag: ```CTF{I_AM_PROUD_OF_YOU}```
 
+## Symbolic_Decimals
+
+* Website: https://ctflearn.com/challenge/231
+
+* Solution: **Keyboard Mapping**
+
+    * We could see the keyboard, and mapping ```!@#$%^&*()``` to ```1234567890```
+
+    * Then, we could map the number to the corresponding character
+
+* Code: ```python Symbolic_Decimals/Symbolic_Decimals.py```
+
+* Flag: ```CTF{Star_._Wars_._For_._Life}```
+
 ## 
 
 * Website:
