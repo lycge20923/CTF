@@ -104,6 +104,28 @@
 
 * Flag: ```CTFLearn{Santa_1s_C0ming}```
 
+## Naughty_Cat
+
+* Website: https://ctflearn.com/challenge/890
+
+* Solution: **Audio Analysis**
+
+    1. ```binwalk``` the image
+
+    2. ```unrar``` the ```rar``` file in the extracted files
+
+    3. Use the website(https://academo.org/demos/spectrum-analyzer/) to get the password
+
+    4. Use ```Hex Fiend``` to fix the ```rar``` file which extracted from **2.**
+
+    5. Open the ```rar``` file with the password obtained from **3.**
+
+    6. Decode the text of the ```txt``` file ```unrar``` from **5.**
+
+* Code: ```python Naughty_Cat.py```
+
+* Flag: ```f0r3n51cs_ma5t3r```
+
 ## 
 
 * Website: 
@@ -113,3 +135,4 @@
 * Code:
 
 * Flag: 
+
