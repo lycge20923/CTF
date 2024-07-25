@@ -86,3 +86,30 @@
 
 * Flag: ```PApdsjRTae```
 
+## Exclusive_Santa
+
+* Website: https://ctflearn.com/challenge/851
+
+* Solution: ```foremost``` and ```Stegsolve```
+
+    * ```foremost```: 用來修復影像的工具，相關參數如下
+
+        * ```-T```: 修復影像指令
+
+        * ```-o <path>```: 指定輸出位址
+    
+    * After we use ```foremost``` to fix the broken image(```1.png```), we could extract a normal image(```ouput_Thu_Jul_25_10_24_46_2024/png/00000000.png```)
+
+    * We could then combine the normal image and broken image, and get another normal image, which includes flag information(```Exclusive_Santa/solved.png```)
+
+* Flag: ```CTFLearn{Santa_1s_C0ming}```
+
+## 
+
+* Website: 
+
+* Solution: 
+
+* Code:
+
+* Flag: 
