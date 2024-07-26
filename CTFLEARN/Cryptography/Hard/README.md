@@ -38,6 +38,18 @@
 
 * Flag: ```CTF{Star_._Wars_._For_._Life}```
 
+## RSA_Twins
+
+* Website: https://ctflearn.com/challenge/484
+
+* Solution: **RSA**
+
+    * Don't think too much, we could first try to factorize the ```n```
+
+* Code: ```python RSA_Twins/RSA_Twins.py```
+
+* Flag: ```flag{i_l0v3_tw1N_pr1m3s}```
+
 ## 
 
 * Website:
