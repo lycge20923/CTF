@@ -32,11 +32,11 @@
 
             ![ReyKjavik](ReyKjavik/5.png)
         
-        5. Run the code: ```run 'CTFlearn{flag}'```, and we could find that the first parameter for ```strcmp``` is in ```$rdi```
+        5. Run the code: ```run 'CTFlearn{flag}'```, and we could find that the first parameter(which is for comparing the string) for ```strcmp``` is in ```$rdi```
 
             ![ReyKjavik](ReyKjavik/6.png)
 
-        6. We could then use ```x/s $rdi``` to find the flag.
+        6. We could then use ```x/s $rdi``` to see the ```$rdi```, which storing the correct flag.
 
             ![ReyKjavik](ReyKjavik/7.png)
 
