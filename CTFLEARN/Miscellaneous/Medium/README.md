@@ -30,6 +30,20 @@
 
 * Flag: ```m3Et_me_4t_12_aM```
 
+## Help_Bit
+
+* Website: https://ctflearn.com/challenge/454
+
+* Solution:  **xor**
+
+    * We could first observe the binary representations of ```BUGM``` and ```CTFL```, we could find that the characters in ```BUGM...``` xor ```CTFL...``` is **1**. For example, ```ord(B) ^ ord(C) = 1```
+
+    * We could then use the observation to extract the flag(but we need to add ```a``` since there are some a are missing)
+
+* Code: ```python Help_Bity/Help_Bity.py```
+
+* Flag: ```CTFLearn{b1nary_1s_awes0me}```
+
 ## 
 
 * Website: 
