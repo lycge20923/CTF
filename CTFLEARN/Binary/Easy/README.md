@@ -24,6 +24,18 @@
 
 * Flag: ```CTFlearn{buffer_0verflows_4re_c00l!}```
 
+## RIP_my_bof
+
+* Website: https://ctflearn.com/challenge/1011
+
+* Solution: ```objdump``` 
+
+    * We could use ```objdump``` to see the ```server```, and find the address of the ```win function```  
+
+* Code: ```python Simple_bof/Simple_bof.py```
+
+* Flag: ```CTFlearn{c0ntr0ling_r1p_1s_n0t_t00_h4rd_abjkdlfa}```
+
 ## 
 
 * Website: 
