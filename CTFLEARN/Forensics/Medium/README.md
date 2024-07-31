@@ -126,6 +126,20 @@
 
 * Flag: ```f0r3n51cs_ma5t3r```
 
+## Smiling_ASCII
+
+* Website: https://ctflearn.com/challenge/903
+
+* Solution: ```zsteg```
+
+    * ```zsteg```could read some hidden data in ```.png``` or ```.bmp```
+
+    * We could use ```zsteg --all <image>``` to get the info, and there is the flag in it
+
+        ![smiling_1](Smiling_ASCII/1.png)
+
+* Flag: ```CTFlearn{ascii_pixel_flag}```
+
 ## 
 
 * Website: 
